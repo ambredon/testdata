@@ -11,22 +11,22 @@
         {
           "name":"Bedroom 1",
           "type":"bedroom",
-          "floor","Ground",
+          "floor":Ground",
           "width":4,
           "depth":6,
-          "height"2.5:,
+          "height":2.5:,
           "metric":true,
-          "photos":['https://dl.airtable.com/.attachmentThumbnails/ef03604ffc7955e7066633baabd32f63/6247b9b3']
+          "photos":["https://dl.airtable.com/.attachmentThumbnails/ef03604ffc7955e7066633baabd32f63/6247b9b3"]
         },
         {
           "name":"Bedroom 2",
           "type":"bedroom",
-          "floor","Ground",
+          "floor":"Ground",
           "width":5,
           "depth":7,
-          "height"2.5:,
+          "height":2.5:,
           "metric":true,
-          "photos":['https://dl.airtable.com/.attachmentThumbnails/ef03604ffc7955e7066633baabd32f63/6247b9b3']
+          "photos":["https://dl.airtable.com/.attachmentThumbnails/ef03604ffc7955e7066633baabd32f63/6247b9b3"]
         }
       ]
     }
